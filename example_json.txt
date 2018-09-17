@@ -1,0 +1,8 @@
+[{"year:20200101", "theft over $500:xxx" , "theft under $500:xxx} {"year:2002", "theft over $500:xxx" , "theft under $500:xxx} 
+{"year:2003", "theft over $500:xxx" , "theft under $500:xxx} {"year:2004", "theft over $500:xxx" , "theft under $500:xxx} 
+{"year:2005", "theft over $500:xxx" , "theft under $500:xxx} {"year:2006", "theft over $500:xxx" , "theft under $500:xxx} 
+{"year:2007", "theft over $500:xxx" , "theft under $500:xxx} {"year:2008", "theft over $500:xxx" , "theft under $500:xxx} 
+{"year:2009", "theft over $500:xxx" , "theft under $500:xxx} {"year:2010", "theft over $500:xxx" , "theft under $500:xxx} 
+{"year:2011", "theft over $500:xxx" , "theft under $500:xxx} {"year:2012", "theft over $500:xxx" , "theft under $500:xxx} 
+{"year:2013", "theft over $500:xxx" , "theft under $500:xxx} {"year:2014", "theft over $500:xxx" , "theft under $500:xxx} 
+{"year:2015", "theft over $500:xxx" , "theft under $500:xxx} {"year:2016", "theft over $500:xxx" , "theft under $500:xxx}]
